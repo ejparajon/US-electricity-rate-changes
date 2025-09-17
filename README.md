@@ -28,4 +28,4 @@ You can use this repository to:
 + Analyze absolute and percent changes in inflation-adjusted electricity costs
 
 You can explore primary the interactive visualization here:  
-[View Electricity Price Inflation Adjustment (2014–2024)](https://ejparajon.github.io/US-electricity-rate-changes/plot1_electric_inflation_adjust.html)  
+[View Electricity Prices Adjusted for Inflation by State/Sector (2014–2024)](https://ejparajon.github.io/US-electricity-rate-changes/plot1_electric_inflation_adjust.html)  
