@@ -27,5 +27,5 @@ You can use this repository to:
 + Compare price changes across different sectors
 + Analyze absolute and percent changes in inflation-adjusted electricity costs
 
-You can explore primary the interactive visualization here:  
+You can explore the primary interactive visualization here:  
 [View Electricity Prices Adjusted for Inflation by State/Sector (2014–2024)](https://ejparajon.github.io/US-electricity-rate-changes/plot1_electric_inflation_adjust.html)  
