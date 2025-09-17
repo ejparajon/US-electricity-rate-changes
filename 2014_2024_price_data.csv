@@ -1,0 +1,727 @@
+﻿State,Sector,Year,Cost,Type
+Alabama,Residential,2014,14.62,natural_gas
+Alabama,Residential,2015,14.13,natural_gas
+Alabama,Residential,2016,14.06,natural_gas
+Alabama,Residential,2017,16.12,natural_gas
+Alabama,Residential,2018,15.22,natural_gas
+Alabama,Residential,2019,15.63,natural_gas
+Alabama,Residential,2020,16.01,natural_gas
+Alabama,Residential,2021,15.72,natural_gas
+Alabama,Residential,2022,17.36,natural_gas
+Alabama,Residential,2023,20.1,natural_gas
+Alabama,Residential,2024,18.46,natural_gas
+Alabama,Commercial,2014,11.98,natural_gas
+Alabama,Commercial,2015,11.18,natural_gas
+Alabama,Commercial,2016,10.66,natural_gas
+Alabama,Commercial,2017,12.04,natural_gas
+Alabama,Commercial,2018,11.89,natural_gas
+Alabama,Commercial,2019,11.87,natural_gas
+Alabama,Commercial,2020,11.93,natural_gas
+Alabama,Commercial,2021,12.03,natural_gas
+Alabama,Commercial,2022,13.57,natural_gas
+Alabama,Commercial,2023,15.02,natural_gas
+Alabama,Commercial,2024,13.9,natural_gas
+Alabama,Industrial,2014,5.49,natural_gas
+Alabama,Industrial,2015,4.09,natural_gas
+Alabama,Industrial,2016,3.79,natural_gas
+Alabama,Industrial,2017,4.23,natural_gas
+Alabama,Industrial,2018,4.22,natural_gas
+Alabama,Industrial,2019,3.95,natural_gas
+Alabama,Industrial,2020,3.54,natural_gas
+Alabama,Industrial,2021,4.86,natural_gas
+Alabama,Industrial,2022,7.87,natural_gas
+Alabama,Industrial,2023,4.53,natural_gas
+Alabama,Industrial,2024,NA,natural_gas
+Arkansas,Residential,2014,10.39,natural_gas
+Arkansas,Residential,2015,11.58,natural_gas
+Arkansas,Residential,2016,11.17,natural_gas
+Arkansas,Residential,2017,12.97,natural_gas
+Arkansas,Residential,2018,11.77,natural_gas
+Arkansas,Residential,2019,11.05,natural_gas
+Arkansas,Residential,2020,12.28,natural_gas
+Arkansas,Residential,2021,12.55,natural_gas
+Arkansas,Residential,2022,16.95,natural_gas
+Arkansas,Residential,2023,17.86,natural_gas
+Arkansas,Residential,2024,NA,natural_gas
+Arkansas,Commercial,2014,7.88,natural_gas
+Arkansas,Commercial,2015,8.43,natural_gas
+Arkansas,Commercial,2016,7.14,natural_gas
+Arkansas,Commercial,2017,8.34,natural_gas
+Arkansas,Commercial,2018,7.95,natural_gas
+Arkansas,Commercial,2019,7.68,natural_gas
+Arkansas,Commercial,2020,7.65,natural_gas
+Arkansas,Commercial,2021,8.48,natural_gas
+Arkansas,Commercial,2022,12.89,natural_gas
+Arkansas,Commercial,2023,12.53,natural_gas
+Arkansas,Commercial,2024,10.19,natural_gas
+Arkansas,Industrial,2014,6.99,natural_gas
+Arkansas,Industrial,2015,6.91,natural_gas
+Arkansas,Industrial,2016,5.78,natural_gas
+Arkansas,Industrial,2017,6.65,natural_gas
+Arkansas,Industrial,2018,6.78,natural_gas
+Arkansas,Industrial,2019,6.25,natural_gas
+Arkansas,Industrial,2020,6.25,natural_gas
+Arkansas,Industrial,2021,7.76,natural_gas
+Arkansas,Industrial,2022,10.46,natural_gas
+Arkansas,Industrial,2023,9.45,natural_gas
+Arkansas,Industrial,2024,7.58,natural_gas
+Florida,Residential,2014,19.02,natural_gas
+Florida,Residential,2015,19.34,natural_gas
+Florida,Residential,2016,20.27,natural_gas
+Florida,Residential,2017,21.15,natural_gas
+Florida,Residential,2018,21.34,natural_gas
+Florida,Residential,2019,21.66,natural_gas
+Florida,Residential,2020,21.38,natural_gas
+Florida,Residential,2021,22.9,natural_gas
+Florida,Residential,2022,26.34,natural_gas
+Florida,Residential,2023,25.17,natural_gas
+Florida,Residential,2024,26.02,natural_gas
+Florida,Commercial,2014,11.42,natural_gas
+Florida,Commercial,2015,10.88,natural_gas
+Florida,Commercial,2016,10.42,natural_gas
+Florida,Commercial,2017,10.97,natural_gas
+Florida,Commercial,2018,11.2,natural_gas
+Florida,Commercial,2019,11.46,natural_gas
+Florida,Commercial,2020,11.47,natural_gas
+Florida,Commercial,2021,12.08,natural_gas
+Florida,Commercial,2022,14.3,natural_gas
+Florida,Commercial,2023,13.54,natural_gas
+Florida,Commercial,2024,11.81,natural_gas
+Florida,Industrial,2014,6.89,natural_gas
+Florida,Industrial,2015,6.43,natural_gas
+Florida,Industrial,2016,5.77,natural_gas
+Florida,Industrial,2017,6.17,natural_gas
+Florida,Industrial,2018,6.38,natural_gas
+Florida,Industrial,2019,6.16,natural_gas
+Florida,Industrial,2020,5.55,natural_gas
+Florida,Industrial,2021,6.31,natural_gas
+Florida,Industrial,2022,9.38,natural_gas
+Florida,Industrial,2023,7.17,natural_gas
+Florida,Industrial,2024,4.67,natural_gas
+Georgia,Residential,2014,14.45,natural_gas
+Georgia,Residential,2015,14.62,natural_gas
+Georgia,Residential,2016,14.56,natural_gas
+Georgia,Residential,2017,16.93,natural_gas
+Georgia,Residential,2018,13.98,natural_gas
+Georgia,Residential,2019,14.88,natural_gas
+Georgia,Residential,2020,15.45,natural_gas
+Georgia,Residential,2021,15.91,natural_gas
+Georgia,Residential,2022,18.06,natural_gas
+Georgia,Residential,2023,19.03,natural_gas
+Georgia,Residential,2024,19.81,natural_gas
+Georgia,Commercial,2014,9.86,natural_gas
+Georgia,Commercial,2015,8.58,natural_gas
+Georgia,Commercial,2016,7.92,natural_gas
+Georgia,Commercial,2017,8.78,natural_gas
+Georgia,Commercial,2018,8.17,natural_gas
+Georgia,Commercial,2019,8.21,natural_gas
+Georgia,Commercial,2020,7.69,natural_gas
+Georgia,Commercial,2021,8.59,natural_gas
+Georgia,Commercial,2022,11.4,natural_gas
+Georgia,Commercial,2023,10.74,natural_gas
+Georgia,Commercial,2024,9.35,natural_gas
+Georgia,Industrial,2014,6.07,natural_gas
+Georgia,Industrial,2015,4.42,natural_gas
+Georgia,Industrial,2016,4.13,natural_gas
+Georgia,Industrial,2017,4.65,natural_gas
+Georgia,Industrial,2018,4.63,natural_gas
+Georgia,Industrial,2019,4.23,natural_gas
+Georgia,Industrial,2020,3.85,natural_gas
+Georgia,Industrial,2021,5.44,natural_gas
+Georgia,Industrial,2022,8.97,natural_gas
+Georgia,Industrial,2023,5.36,natural_gas
+Georgia,Industrial,2024,4.77,natural_gas
+Kentucky,Residential,2014,10.62,natural_gas
+Kentucky,Residential,2015,10.87,natural_gas
+Kentucky,Residential,2016,10.14,natural_gas
+Kentucky,Residential,2017,11.62,natural_gas
+Kentucky,Residential,2018,10.56,natural_gas
+Kentucky,Residential,2019,10.85,natural_gas
+Kentucky,Residential,2020,11.14,natural_gas
+Kentucky,Residential,2021,12.21,natural_gas
+Kentucky,Residential,2022,14.58,natural_gas
+Kentucky,Residential,2023,15.5,natural_gas
+Kentucky,Residential,2024,13.57,natural_gas
+Kentucky,Commercial,2014,9.06,natural_gas
+Kentucky,Commercial,2015,8.75,natural_gas
+Kentucky,Commercial,2016,7.89,natural_gas
+Kentucky,Commercial,2017,9.06,natural_gas
+Kentucky,Commercial,2018,8.43,natural_gas
+Kentucky,Commercial,2019,8.6,natural_gas
+Kentucky,Commercial,2020,8.64,natural_gas
+Kentucky,Commercial,2021,9.59,natural_gas
+Kentucky,Commercial,2022,12.17,natural_gas
+Kentucky,Commercial,2023,11.95,natural_gas
+Kentucky,Commercial,2024,10.01,natural_gas
+Kentucky,Industrial,2014,5.78,natural_gas
+Kentucky,Industrial,2015,4.37,natural_gas
+Kentucky,Industrial,2016,3.84,natural_gas
+Kentucky,Industrial,2017,4.46,natural_gas
+Kentucky,Industrial,2018,4.4,natural_gas
+Kentucky,Industrial,2019,4.06,natural_gas
+Kentucky,Industrial,2020,3.5,natural_gas
+Kentucky,Industrial,2021,5.04,natural_gas
+Kentucky,Industrial,2022,7.84,natural_gas
+Kentucky,Industrial,2023,4.49,natural_gas
+Kentucky,Industrial,2024,3.54,natural_gas
+Louisiana,Residential,2014,10.89,natural_gas
+Louisiana,Residential,2015,10.77,natural_gas
+Louisiana,Residential,2016,11.35,natural_gas
+Louisiana,Residential,2017,13.04,natural_gas
+Louisiana,Residential,2018,11.65,natural_gas
+Louisiana,Residential,2019,11.49,natural_gas
+Louisiana,Residential,2020,12.16,natural_gas
+Louisiana,Residential,2021,12.87,natural_gas
+Louisiana,Residential,2022,15.89,natural_gas
+Louisiana,Residential,2023,16.22,natural_gas
+Louisiana,Residential,2024,16.46,natural_gas
+Louisiana,Commercial,2014,9.01,natural_gas
+Louisiana,Commercial,2015,8.01,natural_gas
+Louisiana,Commercial,2016,7.92,natural_gas
+Louisiana,Commercial,2017,8.99,natural_gas
+Louisiana,Commercial,2018,8.71,natural_gas
+Louisiana,Commercial,2019,8.43,natural_gas
+Louisiana,Commercial,2020,8.38,natural_gas
+Louisiana,Commercial,2021,9.86,natural_gas
+Louisiana,Commercial,2022,12.99,natural_gas
+Louisiana,Commercial,2023,10.94,natural_gas
+Louisiana,Commercial,2024,11.12,natural_gas
+Louisiana,Industrial,2014,5.05,natural_gas
+Louisiana,Industrial,2015,3.33,natural_gas
+Louisiana,Industrial,2016,3.11,natural_gas
+Louisiana,Industrial,2017,3.64,natural_gas
+Louisiana,Industrial,2018,3.52,natural_gas
+Louisiana,Industrial,2019,3.37,natural_gas
+Louisiana,Industrial,2020,2.58,natural_gas
+Louisiana,Industrial,2021,4.04,natural_gas
+Louisiana,Industrial,2022,7.18,natural_gas
+Louisiana,Industrial,2023,3.85,natural_gas
+Louisiana,Industrial,2024,3.38,natural_gas
+Mississippi,Residential,2014,9.51,natural_gas
+Mississippi,Residential,2015,9.7,natural_gas
+Mississippi,Residential,2016,10.06,natural_gas
+Mississippi,Residential,2017,11.83,natural_gas
+Mississippi,Residential,2018,10.44,natural_gas
+Mississippi,Residential,2019,10.58,natural_gas
+Mississippi,Residential,2020,11.51,natural_gas
+Mississippi,Residential,2021,12.64,natural_gas
+Mississippi,Residential,2022,14.55,natural_gas
+Mississippi,Residential,2023,15.64,natural_gas
+Mississippi,Residential,2024,14.84,natural_gas
+Mississippi,Commercial,2014,8.36,natural_gas
+Mississippi,Commercial,2015,7.87,natural_gas
+Mississippi,Commercial,2016,7.8,natural_gas
+Mississippi,Commercial,2017,8.82,natural_gas
+Mississippi,Commercial,2018,8.5,natural_gas
+Mississippi,Commercial,2019,8.5,natural_gas
+Mississippi,Commercial,2020,8.67,natural_gas
+Mississippi,Commercial,2021,9.95,natural_gas
+Mississippi,Commercial,2022,12.2,natural_gas
+Mississippi,Commercial,2023,11.7,natural_gas
+Mississippi,Commercial,2024,11.05,natural_gas
+Mississippi,Industrial,2014,6.15,natural_gas
+Mississippi,Industrial,2015,4.72,natural_gas
+Mississippi,Industrial,2016,4.34,natural_gas
+Mississippi,Industrial,2017,5.07,natural_gas
+Mississippi,Industrial,2018,5.09,natural_gas
+Mississippi,Industrial,2019,4.7,natural_gas
+Mississippi,Industrial,2020,4.07,natural_gas
+Mississippi,Industrial,2021,5.67,natural_gas
+Mississippi,Industrial,2022,8.34,natural_gas
+Mississippi,Industrial,2023,5.56,natural_gas
+Mississippi,Industrial,2024,4.43,natural_gas
+North Carolina,Residential,2014,11.88,natural_gas
+North Carolina,Residential,2015,11.57,natural_gas
+North Carolina,Residential,2016,11.31,natural_gas
+North Carolina,Residential,2017,13.29,natural_gas
+North Carolina,Residential,2018,12.11,natural_gas
+North Carolina,Residential,2019,12.88,natural_gas
+North Carolina,Residential,2020,13.23,natural_gas
+North Carolina,Residential,2021,14.12,natural_gas
+North Carolina,Residential,2022,17.2,natural_gas
+North Carolina,Residential,2023,17.33,natural_gas
+North Carolina,Residential,2024,NA,natural_gas
+North Carolina,Commercial,2014,9.12,natural_gas
+North Carolina,Commercial,2015,8.27,natural_gas
+North Carolina,Commercial,2016,7.71,natural_gas
+North Carolina,Commercial,2017,8.92,natural_gas
+North Carolina,Commercial,2018,8.48,natural_gas
+North Carolina,Commercial,2019,8.76,natural_gas
+North Carolina,Commercial,2020,9.01,natural_gas
+North Carolina,Commercial,2021,9.87,natural_gas
+North Carolina,Commercial,2022,12.35,natural_gas
+North Carolina,Commercial,2023,11.17,natural_gas
+North Carolina,Commercial,2024,NA,natural_gas
+North Carolina,Industrial,2014,7.55,natural_gas
+North Carolina,Industrial,2015,6.34,natural_gas
+North Carolina,Industrial,2016,5.43,natural_gas
+North Carolina,Industrial,2017,6.24,natural_gas
+North Carolina,Industrial,2018,6.18,natural_gas
+North Carolina,Industrial,2019,5.78,natural_gas
+North Carolina,Industrial,2020,5.24,natural_gas
+North Carolina,Industrial,2021,6.33,natural_gas
+North Carolina,Industrial,2022,9.27,natural_gas
+North Carolina,Industrial,2023,6.71,natural_gas
+North Carolina,Industrial,2024,5.48,natural_gas
+South Carolina,Residential,2014,12.65,natural_gas
+South Carolina,Residential,2015,12.62,natural_gas
+South Carolina,Residential,2016,12.62,natural_gas
+South Carolina,Residential,2017,14.47,natural_gas
+South Carolina,Residential,2018,13.46,natural_gas
+South Carolina,Residential,2019,13.07,natural_gas
+South Carolina,Residential,2020,13.49,natural_gas
+South Carolina,Residential,2021,14.29,natural_gas
+South Carolina,Residential,2022,15.67,natural_gas
+South Carolina,Residential,2023,17.46,natural_gas
+South Carolina,Residential,2024,16.78,natural_gas
+South Carolina,Commercial,2014,9.55,natural_gas
+South Carolina,Commercial,2015,8.52,natural_gas
+South Carolina,Commercial,2016,8.42,natural_gas
+South Carolina,Commercial,2017,9.32,natural_gas
+South Carolina,Commercial,2018,9.37,natural_gas
+South Carolina,Commercial,2019,8.63,natural_gas
+South Carolina,Commercial,2020,8.61,natural_gas
+South Carolina,Commercial,2021,9.89,natural_gas
+South Carolina,Commercial,2022,12.15,natural_gas
+South Carolina,Commercial,2023,11.48,natural_gas
+South Carolina,Commercial,2024,NA,natural_gas
+South Carolina,Industrial,2014,6.14,natural_gas
+South Carolina,Industrial,2015,4.64,natural_gas
+South Carolina,Industrial,2016,4.2,natural_gas
+South Carolina,Industrial,2017,4.86,natural_gas
+South Carolina,Industrial,2018,4.92,natural_gas
+South Carolina,Industrial,2019,4.65,natural_gas
+South Carolina,Industrial,2020,3.92,natural_gas
+South Carolina,Industrial,2021,5.6,natural_gas
+South Carolina,Industrial,2022,8.92,natural_gas
+South Carolina,Industrial,2023,5.16,natural_gas
+South Carolina,Industrial,2024,4.92,natural_gas
+Tennessee,Residential,2014,10.13,natural_gas
+Tennessee,Residential,2015,9.62,natural_gas
+Tennessee,Residential,2016,9.21,natural_gas
+Tennessee,Residential,2017,10.31,natural_gas
+Tennessee,Residential,2018,9.46,natural_gas
+Tennessee,Residential,2019,9.46,natural_gas
+Tennessee,Residential,2020,8.97,natural_gas
+Tennessee,Residential,2021,10.29,natural_gas
+Tennessee,Residential,2022,12.45,natural_gas
+Tennessee,Residential,2023,11.68,natural_gas
+Tennessee,Residential,2024,NA,natural_gas
+Tennessee,Commercial,2014,9.3,natural_gas
+Tennessee,Commercial,2015,8.46,natural_gas
+Tennessee,Commercial,2016,7.8,natural_gas
+Tennessee,Commercial,2017,8.74,natural_gas
+Tennessee,Commercial,2018,8.41,natural_gas
+Tennessee,Commercial,2019,8.1,natural_gas
+Tennessee,Commercial,2020,7.73,natural_gas
+Tennessee,Commercial,2021,9.11,natural_gas
+Tennessee,Commercial,2022,11.53,natural_gas
+Tennessee,Commercial,2023,10.35,natural_gas
+Tennessee,Commercial,2024,NA,natural_gas
+Tennessee,Industrial,2014,6.31,natural_gas
+Tennessee,Industrial,2015,5.06,natural_gas
+Tennessee,Industrial,2016,4.44,natural_gas
+Tennessee,Industrial,2017,5.04,natural_gas
+Tennessee,Industrial,2018,4.95,natural_gas
+Tennessee,Industrial,2019,4.68,natural_gas
+Tennessee,Industrial,2020,4.16,natural_gas
+Tennessee,Industrial,2021,5.53,natural_gas
+Tennessee,Industrial,2022,8,natural_gas
+Tennessee,Industrial,2023,5.51,natural_gas
+Tennessee,Industrial,2024,NA,natural_gas
+Alabama,Residential,2014,11.48,electricity
+Alabama,Residential,2015,11.7,electricity
+Alabama,Residential,2016,11.99,electricity
+Alabama,Residential,2017,12.55,electricity
+Alabama,Residential,2018,12.18,electricity
+Alabama,Residential,2019,12.53,electricity
+Alabama,Residential,2020,12.57,electricity
+Alabama,Residential,2021,12.96,electricity
+Alabama,Residential,2022,14.25,electricity
+Alabama,Residential,2023,14.63,electricity
+Alabama,Residential,2024,15.12,electricity
+Alabama,Commercial,2014,10.79,electricity
+Alabama,Commercial,2015,10.83,electricity
+Alabama,Commercial,2016,11.11,electricity
+Alabama,Commercial,2017,11.6,electricity
+Alabama,Commercial,2018,11.24,electricity
+Alabama,Commercial,2019,11.52,electricity
+Alabama,Commercial,2020,11.55,electricity
+Alabama,Commercial,2021,11.84,electricity
+Alabama,Commercial,2022,13.16,electricity
+Alabama,Commercial,2023,13.16,electricity
+Alabama,Commercial,2024,13.57,electricity
+Alabama,Industrial,2014,6.15,electricity
+Alabama,Industrial,2015,6.03,electricity
+Alabama,Industrial,2016,6.04,electricity
+Alabama,Industrial,2017,6.16,electricity
+Alabama,Industrial,2018,6.01,electricity
+Alabama,Industrial,2019,5.95,electricity
+Alabama,Industrial,2020,5.87,electricity
+Alabama,Industrial,2021,6.33,electricity
+Alabama,Industrial,2022,7.72,electricity
+Alabama,Industrial,2023,7.1,electricity
+Alabama,Industrial,2024,7.23,electricity
+Arkansas,Residential,2014,9.51,electricity
+Arkansas,Residential,2015,9.82,electricity
+Arkansas,Residential,2016,9.92,electricity
+Arkansas,Residential,2017,10.28,electricity
+Arkansas,Residential,2018,9.81,electricity
+Arkansas,Residential,2019,9.8,electricity
+Arkansas,Residential,2020,10.41,electricity
+Arkansas,Residential,2021,11.27,electricity
+Arkansas,Residential,2022,12.05,electricity
+Arkansas,Residential,2023,12.25,electricity
+Arkansas,Residential,2024,12.24,electricity
+Arkansas,Commercial,2014,8.05,electricity
+Arkansas,Commercial,2015,8.32,electricity
+Arkansas,Commercial,2016,8.23,electricity
+Arkansas,Commercial,2017,8.51,electricity
+Arkansas,Commercial,2018,7.75,electricity
+Arkansas,Commercial,2019,8.78,electricity
+Arkansas,Commercial,2020,8.61,electricity
+Arkansas,Commercial,2021,9.56,electricity
+Arkansas,Commercial,2022,10.26,electricity
+Arkansas,Commercial,2023,10.34,electricity
+Arkansas,Commercial,2024,10.22,electricity
+Arkansas,Industrial,2014,6.02,electricity
+Arkansas,Industrial,2015,6.23,electricity
+Arkansas,Industrial,2016,6.08,electricity
+Arkansas,Industrial,2017,6.07,electricity
+Arkansas,Industrial,2018,5.64,electricity
+Arkansas,Industrial,2019,6.13,electricity
+Arkansas,Industrial,2020,5.89,electricity
+Arkansas,Industrial,2021,6.57,electricity
+Arkansas,Industrial,2022,7.38,electricity
+Arkansas,Industrial,2023,6.87,electricity
+Arkansas,Industrial,2024,6.55,electricity
+Florida,Residential,2014,11.89,electricity
+Florida,Residential,2015,11.58,electricity
+Florida,Residential,2016,10.98,electricity
+Florida,Residential,2017,11.61,electricity
+Florida,Residential,2018,11.54,electricity
+Florida,Residential,2019,11.7,electricity
+Florida,Residential,2020,11.27,electricity
+Florida,Residential,2021,11.9,electricity
+Florida,Residential,2022,13.9,electricity
+Florida,Residential,2023,15.21,electricity
+Florida,Residential,2024,14.15,electricity
+Florida,Commercial,2014,9.87,electricity
+Florida,Commercial,2015,9.5,electricity
+Florida,Commercial,2016,8.9,electricity
+Florida,Commercial,2017,9.35,electricity
+Florida,Commercial,2018,9.19,electricity
+Florida,Commercial,2019,9.27,electricity
+Florida,Commercial,2020,8.85,electricity
+Florida,Commercial,2021,9.51,electricity
+Florida,Commercial,2022,11.19,electricity
+Florida,Commercial,2023,11.95,electricity
+Florida,Commercial,2024,11.1,electricity
+Florida,Industrial,2014,7.9,electricity
+Florida,Industrial,2015,8.22,electricity
+Florida,Industrial,2016,7.69,electricity
+Florida,Industrial,2017,7.83,electricity
+Florida,Industrial,2018,7.65,electricity
+Florida,Industrial,2019,7.65,electricity
+Florida,Industrial,2020,7.15,electricity
+Florida,Industrial,2021,7.65,electricity
+Florida,Industrial,2022,9.16,electricity
+Florida,Industrial,2023,9.39,electricity
+Florida,Industrial,2024,8.52,electricity
+Georgia,Residential,2014,11.65,electricity
+Georgia,Residential,2015,11.54,electricity
+Georgia,Residential,2016,11.5,electricity
+Georgia,Residential,2017,11.9,electricity
+Georgia,Residential,2018,11.47,electricity
+Georgia,Residential,2019,11.76,electricity
+Georgia,Residential,2020,12.02,electricity
+Georgia,Residential,2021,12.51,electricity
+Georgia,Residential,2022,13.8,electricity
+Georgia,Residential,2023,13.69,electricity
+Georgia,Residential,2024,14.14,electricity
+Georgia,Commercial,2014,10.36,electricity
+Georgia,Commercial,2015,9.89,electricity
+Georgia,Commercial,2016,9.81,electricity
+Georgia,Commercial,2017,10.09,electricity
+Georgia,Commercial,2018,9.79,electricity
+Georgia,Commercial,2019,10.02,electricity
+Georgia,Commercial,2020,10.08,electricity
+Georgia,Commercial,2021,10.61,electricity
+Georgia,Commercial,2022,12.1,electricity
+Georgia,Commercial,2023,10.7,electricity
+Georgia,Commercial,2024,11.09,electricity
+Georgia,Industrial,2014,6.64,electricity
+Georgia,Industrial,2015,5.87,electricity
+Georgia,Industrial,2016,5.84,electricity
+Georgia,Industrial,2017,5.96,electricity
+Georgia,Industrial,2018,6,electricity
+Georgia,Industrial,2019,6.17,electricity
+Georgia,Industrial,2020,5.77,electricity
+Georgia,Industrial,2021,6.49,electricity
+Georgia,Industrial,2022,8.65,electricity
+Georgia,Industrial,2023,6.88,electricity
+Georgia,Industrial,2024,7.2,electricity
+Kentucky,Residential,2014,10.16,electricity
+Kentucky,Residential,2015,10.24,electricity
+Kentucky,Residential,2016,10.49,electricity
+Kentucky,Residential,2017,10.85,electricity
+Kentucky,Residential,2018,10.6,electricity
+Kentucky,Residential,2019,10.8,electricity
+Kentucky,Residential,2020,10.87,electricity
+Kentucky,Residential,2021,11.5,electricity
+Kentucky,Residential,2022,12.91,electricity
+Kentucky,Residential,2023,12.65,electricity
+Kentucky,Residential,2024,12.98,electricity
+Kentucky,Commercial,2014,9.44,electricity
+Kentucky,Commercial,2015,9.44,electricity
+Kentucky,Commercial,2016,9.57,electricity
+Kentucky,Commercial,2017,9.85,electricity
+Kentucky,Commercial,2018,9.74,electricity
+Kentucky,Commercial,2019,10.15,electricity
+Kentucky,Commercial,2020,10.34,electricity
+Kentucky,Commercial,2021,10.75,electricity
+Kentucky,Commercial,2022,11.78,electricity
+Kentucky,Commercial,2023,11.38,electricity
+Kentucky,Commercial,2024,11.63,electricity
+Kentucky,Industrial,2014,5.68,electricity
+Kentucky,Industrial,2015,5.48,electricity
+Kentucky,Industrial,2016,5.67,electricity
+Kentucky,Industrial,2017,5.72,electricity
+Kentucky,Industrial,2018,5.68,electricity
+Kentucky,Industrial,2019,5.57,electricity
+Kentucky,Industrial,2020,5.31,electricity
+Kentucky,Industrial,2021,5.95,electricity
+Kentucky,Industrial,2022,7.41,electricity
+Kentucky,Industrial,2023,6.55,electricity
+Kentucky,Industrial,2024,6.53,electricity
+Louisiana,Residential,2014,9.57,electricity
+Louisiana,Residential,2015,9.33,electricity
+Louisiana,Residential,2016,9.34,electricity
+Louisiana,Residential,2017,9.74,electricity
+Louisiana,Residential,2018,9.59,electricity
+Louisiana,Residential,2019,9.8,electricity
+Louisiana,Residential,2020,9.67,electricity
+Louisiana,Residential,2021,11.02,electricity
+Louisiana,Residential,2022,12.93,electricity
+Louisiana,Residential,2023,11.55,electricity
+Louisiana,Residential,2024,11.64,electricity
+Louisiana,Commercial,2014,9.1,electricity
+Louisiana,Commercial,2015,8.66,electricity
+Louisiana,Commercial,2016,8.59,electricity
+Louisiana,Commercial,2017,8.95,electricity
+Louisiana,Commercial,2018,8.85,electricity
+Louisiana,Commercial,2019,8.91,electricity
+Louisiana,Commercial,2020,8.85,electricity
+Louisiana,Commercial,2021,10.23,electricity
+Louisiana,Commercial,2022,11.93,electricity
+Louisiana,Commercial,2023,10.45,electricity
+Louisiana,Commercial,2024,10.37,electricity
+Louisiana,Industrial,2014,6.05,electricity
+Louisiana,Industrial,2015,5.41,electricity
+Louisiana,Industrial,2016,5.08,electricity
+Louisiana,Industrial,2017,5.48,electricity
+Louisiana,Industrial,2018,5.35,electricity
+Louisiana,Industrial,2019,5.23,electricity
+Louisiana,Industrial,2020,4.88,electricity
+Louisiana,Industrial,2021,6.21,electricity
+Louisiana,Industrial,2022,7.54,electricity
+Louisiana,Industrial,2023,5.88,electricity
+Louisiana,Industrial,2024,5.57,electricity
+Mississippi,Residential,2014,11.32,electricity
+Mississippi,Residential,2015,11.27,electricity
+Mississippi,Residential,2016,10.47,electricity
+Mississippi,Residential,2017,11.08,electricity
+Mississippi,Residential,2018,11.12,electricity
+Mississippi,Residential,2019,11.27,electricity
+Mississippi,Residential,2020,11.17,electricity
+Mississippi,Residential,2021,11.56,electricity
+Mississippi,Residential,2022,12.41,electricity
+Mississippi,Residential,2023,13.23,electricity
+Mississippi,Residential,2024,13.29,electricity
+Mississippi,Commercial,2014,10.76,electricity
+Mississippi,Commercial,2015,10.55,electricity
+Mississippi,Commercial,2016,9.57,electricity
+Mississippi,Commercial,2017,10.17,electricity
+Mississippi,Commercial,2018,10.43,electricity
+Mississippi,Commercial,2019,10.52,electricity
+Mississippi,Commercial,2020,10.38,electricity
+Mississippi,Commercial,2021,10.81,electricity
+Mississippi,Commercial,2022,11.76,electricity
+Mississippi,Commercial,2023,12.37,electricity
+Mississippi,Commercial,2024,12.08,electricity
+Mississippi,Industrial,2014,6.6,electricity
+Mississippi,Industrial,2015,6.56,electricity
+Mississippi,Industrial,2016,5.79,electricity
+Mississippi,Industrial,2017,5.99,electricity
+Mississippi,Industrial,2018,6,electricity
+Mississippi,Industrial,2019,5.85,electricity
+Mississippi,Industrial,2020,5.63,electricity
+Mississippi,Industrial,2021,5.95,electricity
+Mississippi,Industrial,2022,6.71,electricity
+Mississippi,Industrial,2023,6.96,electricity
+Mississippi,Industrial,2024,6.73,electricity
+North Carolina,Residential,2014,11.1,electricity
+North Carolina,Residential,2015,11.28,electricity
+North Carolina,Residential,2016,11.03,electricity
+North Carolina,Residential,2017,10.94,electricity
+North Carolina,Residential,2018,11.09,electricity
+North Carolina,Residential,2019,11.42,electricity
+North Carolina,Residential,2020,11.38,electricity
+North Carolina,Residential,2021,11.32,electricity
+North Carolina,Residential,2022,11.62,electricity
+North Carolina,Residential,2023,12.93,electricity
+North Carolina,Residential,2024,14.12,electricity
+North Carolina,Commercial,2014,8.75,electricity
+North Carolina,Commercial,2015,8.73,electricity
+North Carolina,Commercial,2016,8.62,electricity
+North Carolina,Commercial,2017,8.44,electricity
+North Carolina,Commercial,2018,8.58,electricity
+North Carolina,Commercial,2019,8.81,electricity
+North Carolina,Commercial,2020,8.69,electricity
+North Carolina,Commercial,2021,8.5,electricity
+North Carolina,Commercial,2022,8.75,electricity
+North Carolina,Commercial,2023,9.67,electricity
+North Carolina,Commercial,2024,10.56,electricity
+North Carolina,Industrial,2014,6.5,electricity
+North Carolina,Industrial,2015,6.51,electricity
+North Carolina,Industrial,2016,6.31,electricity
+North Carolina,Industrial,2017,6.2,electricity
+North Carolina,Industrial,2018,6.33,electricity
+North Carolina,Industrial,2019,6.3,electricity
+North Carolina,Industrial,2020,6.31,electricity
+North Carolina,Industrial,2021,6.14,electricity
+North Carolina,Industrial,2022,6.54,electricity
+North Carolina,Industrial,2023,7.15,electricity
+North Carolina,Industrial,2024,7.69,electricity
+South Carolina,Residential,2014,12.45,electricity
+South Carolina,Residential,2015,12.57,electricity
+South Carolina,Residential,2016,12.65,electricity
+South Carolina,Residential,2017,13.02,electricity
+South Carolina,Residential,2018,12.44,electricity
+South Carolina,Residential,2019,12.99,electricity
+South Carolina,Residential,2020,12.78,electricity
+South Carolina,Residential,2021,12.86,electricity
+South Carolina,Residential,2022,13.59,electricity
+South Carolina,Residential,2023,13.68,electricity
+South Carolina,Residential,2024,14.13,electricity
+South Carolina,Commercial,2014,10.28,electricity
+South Carolina,Commercial,2015,10.21,electricity
+South Carolina,Commercial,2016,10.28,electricity
+South Carolina,Commercial,2017,10.57,electricity
+South Carolina,Commercial,2018,10.11,electricity
+South Carolina,Commercial,2019,10.58,electricity
+South Carolina,Commercial,2020,10.35,electricity
+South Carolina,Commercial,2021,10.67,electricity
+South Carolina,Commercial,2022,10.86,electricity
+South Carolina,Commercial,2023,10.39,electricity
+South Carolina,Commercial,2024,10.58,electricity
+South Carolina,Industrial,2014,6.29,electricity
+South Carolina,Industrial,2015,6.05,electricity
+South Carolina,Industrial,2016,6.09,electricity
+South Carolina,Industrial,2017,6.19,electricity
+South Carolina,Industrial,2018,6.1,electricity
+South Carolina,Industrial,2019,6.11,electricity
+South Carolina,Industrial,2020,5.98,electricity
+South Carolina,Industrial,2021,6.07,electricity
+South Carolina,Industrial,2022,7.13,electricity
+South Carolina,Industrial,2023,6.68,electricity
+South Carolina,Industrial,2024,6.82,electricity
+Tennessee,Residential,2014,10.32,electricity
+Tennessee,Residential,2015,10.3,electricity
+Tennessee,Residential,2016,10.41,electricity
+Tennessee,Residential,2017,10.72,electricity
+Tennessee,Residential,2018,10.71,electricity
+Tennessee,Residential,2019,10.87,electricity
+Tennessee,Residential,2020,10.76,electricity
+Tennessee,Residential,2021,11.07,electricity
+Tennessee,Residential,2022,12.25,electricity
+Tennessee,Residential,2023,12.19,electricity
+Tennessee,Residential,2024,12.54,electricity
+Tennessee,Commercial,2014,10.38,electricity
+Tennessee,Commercial,2015,10.16,electricity
+Tennessee,Commercial,2016,10.19,electricity
+Tennessee,Commercial,2017,10.55,electricity
+Tennessee,Commercial,2018,10.51,electricity
+Tennessee,Commercial,2019,10.65,electricity
+Tennessee,Commercial,2020,10.56,electricity
+Tennessee,Commercial,2021,10.87,electricity
+Tennessee,Commercial,2022,12.02,electricity
+Tennessee,Commercial,2023,11.8,electricity
+Tennessee,Commercial,2024,12.13,electricity
+Tennessee,Industrial,2014,6.4,electricity
+Tennessee,Industrial,2015,6.17,electricity
+Tennessee,Industrial,2016,5.68,electricity
+Tennessee,Industrial,2017,5.83,electricity
+Tennessee,Industrial,2018,5.68,electricity
+Tennessee,Industrial,2019,5.68,electricity
+Tennessee,Industrial,2020,5.33,electricity
+Tennessee,Industrial,2021,5.51,electricity
+Tennessee,Industrial,2022,6.55,electricity
+Tennessee,Industrial,2023,6.23,electricity
+Tennessee,Industrial,2024,6.21,electricity
+Virginia,Residential,2014,11.1,electricity
+Virginia,Residential,2015,11.37,electricity
+Virginia,Residential,2016,11.36,electricity
+Virginia,Residential,2017,11.55,electricity
+Virginia,Residential,2018,11.73,electricity
+Virginia,Residential,2019,12.07,electricity
+Virginia,Residential,2020,12.03,electricity
+Virginia,Residential,2021,11.96,electricity
+Virginia,Residential,2022,13.34,electricity
+Virginia,Residential,2023,14.26,electricity
+Virginia,Residential,2024,14.54,electricity
+West Virginia,Residential,2014,9.34,electricity
+West Virginia,Residential,2015,10.08,electricity
+West Virginia,Residential,2016,11.44,electricity
+West Virginia,Residential,2017,11.63,electricity
+West Virginia,Residential,2018,11.18,electricity
+West Virginia,Residential,2019,11.25,electricity
+West Virginia,Residential,2020,11.8,electricity
+West Virginia,Residential,2021,12.15,electricity
+West Virginia,Residential,2022,13.23,electricity
+West Virginia,Residential,2023,14.05,electricity
+West Virginia,Residential,2024,15.1,electricity
+Virginia,Commercial,2014,8.15,electricity
+Virginia,Commercial,2015,8.21,electricity
+Virginia,Commercial,2016,7.93,electricity
+Virginia,Commercial,2017,8.01,electricity
+Virginia,Commercial,2018,8.32,electricity
+Virginia,Commercial,2019,8.18,electricity
+Virginia,Commercial,2020,7.63,electricity
+Virginia,Commercial,2021,7.79,electricity
+Virginia,Commercial,2022,9.66,electricity
+Virginia,Commercial,2023,8.95,electricity
+Virginia,Commercial,2024,8.93,electricity
+West Virginia,Commercial,2014,7.99,electricity
+West Virginia,Commercial,2015,8.61,electricity
+West Virginia,Commercial,2016,9.35,electricity
+West Virginia,Commercial,2017,9.58,electricity
+West Virginia,Commercial,2018,9.24,electricity
+West Virginia,Commercial,2019,9.16,electricity
+West Virginia,Commercial,2020,9.4,electricity
+West Virginia,Commercial,2021,9.5,electricity
+West Virginia,Commercial,2022,10.42,electricity
+West Virginia,Commercial,2023,11.03,electricity
+West Virginia,Commercial,2024,11.64,electricity
+Virginia,Industrial,2014,6.89,electricity
+Virginia,Industrial,2015,6.95,electricity
+Virginia,Industrial,2016,6.56,electricity
+Virginia,Industrial,2017,6.51,electricity
+Virginia,Industrial,2018,6.86,electricity
+Virginia,Industrial,2019,6.85,electricity
+Virginia,Industrial,2020,6.28,electricity
+Virginia,Industrial,2021,6.49,electricity
+Virginia,Industrial,2022,7.99,electricity
+Virginia,Industrial,2023,8.92,electricity
+Virginia,Industrial,2024,8.78,electricity
+West Virginia,Industrial,2014,5.87,electricity
+West Virginia,Industrial,2015,6.09,electricity
+West Virginia,Industrial,2016,6.57,electricity
+West Virginia,Industrial,2017,6.64,electricity
+West Virginia,Industrial,2018,6.4,electricity
+West Virginia,Industrial,2019,6.02,electricity
+West Virginia,Industrial,2020,6.09,electricity
+West Virginia,Industrial,2021,6.07,electricity
+West Virginia,Industrial,2022,6.74,electricity
+West Virginia,Industrial,2023,7.24,electricity
+West Virginia,Industrial,2024,7.81,electricity
