@@ -29,8 +29,12 @@ You can use this repository to:
 
 You can explore the interactive visualization here:  
 
-<iframe src="https://ejparajon.github.io/US-electricity-rate-changes/plot1_electric_inflation_adjust.html"  
-        width="100%" height="600px" style="border:none;">  
-</iframe>  
+    <!-- Embedded interactive plot -->
+    <iframe
+      src="https://ejparajon.github.io/US-electricity-rate-changes/plot1_electric_inflation_adjust.html"
+      title="Electricity Price Inflation Adjustment"
+      loading="lazy"
+      referrerpolicy="no-referrer"
+    ></iframe>
 
 [View Electricity Price Inflation Adjustment (2014–2024)](https://ejparajon.github.io/US-electricity-rate-changes/plot1_electric_inflation_adjust.html)  
