@@ -10,7 +10,7 @@ This repository contains datasets analyzing electricity price changes across the
 
 The underlying data is sourced from the [U.S. Energy Information Administration (EIA) Electricity Data Browser](https://www.eia.gov/electricity/data/browser/#/topic/7?agg=1,0&geo=0000001nvo&endsec=e&freq=A&start=2014&end=2024&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=).
 
-I processed the raw to calculate:
+I processed the data to calculate:
 + Yearly electricity prices per sector and state
 + Changes in prices over time
 + Differences and percent changes from 2014 to 2024
